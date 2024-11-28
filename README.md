@@ -1,2 +1,3 @@
 # Ejercicio_Generaci-n_Texto_Historia_28_11_24
-Ejercicio_Generación_Texto_Historia_28_11_24
+Ejercicio de generación de texto de historia para la clase de IA.
+Incluye la version del chat de hiatoria y la version previa con solo el chat.
